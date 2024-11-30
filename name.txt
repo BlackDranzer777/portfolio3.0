@@ -1,1 +1,6 @@
-Divyansh Jain
+Your Name
+Software Developer
+Twitter::https://twitter.com/yourprofile
+Instagram::https://instagram.com/yourprofile
+LinkedIn::https://linkedin.com/in/yourprofile
+GitHub::https://github.com/yourprofile
